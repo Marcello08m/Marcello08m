@@ -1,4 +1,4 @@
-<img src = "bannercomp.png" width = "1537px">
+<img src = "IMG_6434.JPG" width = "1537px">
 
 # Olá, seja bem vindo ao meu perfil, bom ter você por aqui !!!
 <div id="badges">
