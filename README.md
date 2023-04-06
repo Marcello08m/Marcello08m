@@ -1,4 +1,4 @@
-<img src = "vscode.JPG" width = "900px">
+<img src = "vscode.jpg" width = "900px">
 
 # Olá, seja bem vindo ao meu perfil, bom ter você por aqui !!!
 <div id="badges">
