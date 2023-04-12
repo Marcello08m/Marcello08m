@@ -20,6 +20,6 @@
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello08m&show_icons=true&theme=tokyonight&count_private=true%22/%3E
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Marcello08m&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello08m&show_icons=true&theme=radical&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Marcello08m&show_icons=true&show_icons=true&theme=radical&count_private=true" />
 </div>
